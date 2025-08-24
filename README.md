@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![XGBoost](https://img.shields.io/badge/XGBoost-enabled-orange)
+![SVM](https://img.shields.io/badge/Model-SVM-green)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
 # 📈 AI-Driven Trading Pattern Predictor
 
